@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Vincent Duong
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Nodejs, java, python, javascript, html/css, flutter 
+- 💞️ I’m looking to collaborate on full-stack web application
+- 📫 How to reach me trungchanh7706@yahoo.com
